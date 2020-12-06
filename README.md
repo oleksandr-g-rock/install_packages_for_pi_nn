@@ -17,4 +17,9 @@ sudo ./installation_packages.sh
 
 
 
-https://gist.github.com/oleksandr-g-rock/e39abd3992b2ed7527f234e214e7e66c
+# Also
+If you were interested in this code, please put a star *.
+Also, if you were interested in my article, please subscribe to my blog
+https://oleksandrg.medium.com/
+
+Thank you :)
