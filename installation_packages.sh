@@ -76,3 +76,6 @@ sudo apt-get -qq -y dist-upgrade
 
 #remove old files
 sudo rm -rf tensorflow-2.3.1-cp37*
+
+# install Keras
+sudo pip3 install keras
